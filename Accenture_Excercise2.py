@@ -1,4 +1,4 @@
-text="apple alarm"
+text="apple"
 
 def encode_text(text):
 	text.lower()
